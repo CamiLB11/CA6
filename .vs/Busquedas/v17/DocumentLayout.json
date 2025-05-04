@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lizan\\Downloads\\Busquedas (7)\\Busquedas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F50DEA83-89A1-4066-A6E9-7438CD85A95C}|..\\unitarias_pruebas\\unitarias_pruebas.csproj|c:\\users\\lizan\\downloads\\busquedas (7)\\unitarias_pruebas\\test1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CEC9D67-C58C-66D2-EABE-1D806438EE73}|Busquedas.csproj|c:\\users\\lizan\\downloads\\busquedas (7)\\busquedas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CEC9D67-C58C-66D2-EABE-1D806438EE73}|Busquedas.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test1.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Busquedas (7)\\unitarias_pruebas\\Test1.cs",
+              "RelativeDocumentMoniker": "..\\unitarias_pruebas\\Test1.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Busquedas (7)\\unitarias_pruebas\\Test1.cs",
+              "RelativeToolTip": "..\\unitarias_pruebas\\Test1.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:03:14.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lizan\\Downloads\\Busquedas (7)\\Busquedas\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lizan\\Downloads\\Busquedas (7)\\Busquedas\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T04:01:56.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

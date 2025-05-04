@@ -1,0 +1,28 @@
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\bin\Debug\net9.0\Busquedas.exe
+C:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\bin\Debug\net9.0\Busquedas.deps.json
+C:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\bin\Debug\net9.0\Busquedas.runtimeconfig.json
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\bin\Debug\net9.0\Busquedas.dll
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\bin\Debug\net9.0\Busquedas.pdb
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.AssemblyInfoInputs.cache
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.AssemblyInfo.cs
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.csproj.CoreCompileInputs.cache
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.dll
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\refint\Busquedas.dll
+c:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.pdb
+C:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\Busquedas.genruntimeconfig.cache
+C:\Users\h.perez.1\Desktop\TEC\Datos\CA\CA6\Busquedas\obj\Debug\net9.0\ref\Busquedas.dll
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\bin\Debug\net9.0\Busquedas.exe
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\bin\Debug\net9.0\Busquedas.deps.json
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\bin\Debug\net9.0\Busquedas.runtimeconfig.json
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\bin\Debug\net9.0\Busquedas.dll
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\bin\Debug\net9.0\Busquedas.pdb
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.AssemblyInfoInputs.cache
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.AssemblyInfo.cs
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.csproj.CoreCompileInputs.cache
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.dll
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\refint\Busquedas.dll
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.pdb
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\Busquedas.genruntimeconfig.cache
+C:\Users\lizan\Downloads\Busquedas (7)\Busquedas\obj\Debug\net9.0\ref\Busquedas.dll
